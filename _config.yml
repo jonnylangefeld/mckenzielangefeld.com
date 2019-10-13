@@ -1,0 +1,31 @@
+# Site settings
+title: Mckenzie Langefeld | Percussionist
+email: mckenzielangefeld@gmail.com
+url: https://mckenzielangefeld.com
+description: "Hi there! I'm Mckenzie, a percussionist in the bay area. (If you don't know what a percussionist is, I'd love to tell you more.) If you have any questions about gigs/performances, piano, percussion, or drum set lessons, contact me here, ​can't wait to hear from you!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000'
+  primary-bright: '#fff'
+  links: '#219ab3'
+
+# Footer settings
+footer: Jonathan Langefeld
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
