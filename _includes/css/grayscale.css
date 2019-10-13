@@ -264,6 +264,7 @@ a:focus {
 
 #lessons {
     background: url(/img/drum-background-01.jpg) no-repeat center center scroll;
+    background-size: cover;
 }
 
 .lessons-section {
