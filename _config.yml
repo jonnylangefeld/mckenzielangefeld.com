@@ -11,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Jonathan Langefeld
+footer: Jonny Langefeld
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -29,3 +29,13 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  - sections
+
+collections:
+  sections:
+    order:
+      - bio.md
+      - lessons.md
+      - contact.md
