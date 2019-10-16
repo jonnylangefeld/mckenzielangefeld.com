@@ -309,8 +309,6 @@ a:focus {
 .gradient {
     background: rgb(23,23,23);
     background: linear-gradient(0deg, rgba(23,23,23,1) 10%, rgba(0,0,0,0) 100%);
-    width: calc(100%);
-    height: calc(100%);
 }
 
 @media(min-width:767px) {

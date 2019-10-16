@@ -13,6 +13,11 @@
                         {{ section.content | split:'<!--more-->' | last }}
                     </div>
                     <label for="read-more-{{ section.title | downcase }}" class="read-more-trigger"></label>
+                    {% if section.after %}
+                        <div style="padding-top: 1em;">
+                            {{ section.after }}
+                        </div>
+                    {% endif %}
                 {% else %}
                     {{ section.content }}
                 {% endif %}
@@ -34,5 +39,9 @@
             }
         </style>
 
+    {% else %}
+        <script>
+            background = $("#{{ section.title | downcase }}").wrap("<div class='container-wrapper'></div>")
+        </script>
     {% endif %}
 {% endfor %}

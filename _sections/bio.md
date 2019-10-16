@@ -2,21 +2,21 @@
 title: Bio
 theme: light
 ---
-Mckenzie Camp is a percussionist in San Francisco where she plays with many ensembles in the bay area. She is on the sub list with the  [San Francisco Opera](http://sfopera.com/Home.aspx), and has played with groups including [Berkeley Symphony](http://berkeleysymphony.org/), Symphony Silicon Valley, Oakland Symphony, Santa Cruz Symphony, Chanticleer, San Francisco Contemporary Music Players, Island City Opera, Adesso Ensemble, Brass Band Mission,  San Jose Chamber Orchestra, Patriot Brass, and Opera Parallele.
+Mckenzie Camp is a percussionist in San Francisco where she plays with many ensembles in the bay area. She is on the sub list with the  [San Francisco Opera](http://sfopera.com/Home.aspx), and has played with groups including [Berkeley Symphony](http://berkeleysymphony.org/), [Symphony Silicon Valley](http://www.symphonysiliconvalley.org/), [Oakland Symphony](https://www.oaklandsymphony.org/), [Santa Cruz Symphony](https://santacruzsymphony.org/), [Chanticleer](http://www.chanticleer.org/russian-program-with-percussion-near-battle-ready/), [San Francisco Contemporary Music Players](http://sfcmp.org/), [Island City Opera](http://islandcityopera.org/), [Adesso Ensemble](https://www.sfcv.org/event/music-on-the-hill/adesso-ensemble-0), [Brass Band Mission](https://www.facebook.com/BrassBandMission),  [San Jose Chamber Orchestra](http://www.sjco.org/SJCO/About.html), [Patriot Brass](http://www.patriotbrass.org/patriot-brass-san-francisco.html), and [Opera Parallele](https://operaparallele.org/).
 
-She is a member of Wild Rumpus, a chamber group dedicated to the development of new music
+She is a member of [Wild Rumpus](http://wildrumpusmusic.org/), a chamber group dedicated to the development of new music
 through collaboration with young/emerging composers.
 
 <!--more-->
 
 She is also a member of deirfiúr duo, which plays many different genres of music combining
-percussion, trumpet, piano, voice, and other unique instruments.  
+percussion, trumpet, piano, voice, and other unique instruments.
 
-She graduated from the Eastman School of Music with a Bachelor of Music in Percussion Performance and also
-earned a Performer’s Certificate. While at Eastman she studied with Michael Burritt, John Beck, Bill Cahn, and Chip Ross, and performed regularly with groups including the Eastman Wind Ensemble, Eastman Percussion Ensemble,
+She graduated from the [Eastman School of Music](http://www.esm.rochester.edu/) with a Bachelor of Music in Percussion Performance and also
+earned a Performer's Certificate. While at Eastman she studied with [Michael Burritt](http://www.michaelburritt.com/), [John Beck](http://www.esm.rochester.edu/faculty/beck_john/), [Bill Cahn](http://nexuspercussion.com/members/bill-cahn/), and [Chip Ross](http://www.esm.rochester.edu/faculty/ross_charles/), and performed regularly with groups including the Eastman Wind Ensemble, Eastman Percussion Ensemble,
 and Eastman Philharmonia.
 
-She received her Masters degree at the San Francisco Conservatory of Music, where she studied with Jack Van Geem and performed with the Conservatory Orchestra, New Music Ensemble, and Percussion Ensemble.
+She received her Masters degree at the [San Francisco Conservatory of Music](http://www.sfcm.edu/), where she studied with [Jack Van Geem](http://www.sfcm.edu/faculty/vangeem.aspx) and performed with the Conservatory Orchestra, New Music Ensemble, and Percussion Ensemble.
 
 She has worked with musicians and composers including Steve Reich, Steve Schick and the SFCMP, Glenn Kotche,
 Pete Erskine, Annie Gosfield, Bob Becker, and the Bang on a Can All Stars.
