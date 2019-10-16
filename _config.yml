@@ -38,4 +38,5 @@ collections:
     order:
       - bio.md
       - lessons.md
+      - photos.md
       - contact.md
