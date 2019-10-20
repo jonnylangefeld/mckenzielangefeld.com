@@ -62,14 +62,14 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
 <div id="myCarousel" class="carousel slide{% if include.transition == 'fade' %} carousel-fade{% endif %}" data-ride="carousel" data-interval="{{ include.duration }}000">
     <!-- Indicators -->
     <ol class="carousel-indicators">
-    {% for item in section.slider.slides %}
+    {% for item in page.slider.slides %}
       <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
     {% endfor %}
     </ol>
   
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-    {% for item in section.slider.slides %}
+    {% for item in page.slider.slides %}
         <div class="item{% if forloop.first %} active{% endif %}" style="background: url('{{ item.image | prepend: site.baseurl }}') center center no-repeat; background-size: cover;">
         <div>{{ item.slide_html }}</div>
       </div>
@@ -96,21 +96,21 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
     -ms-transform: translate(-50%, -50%); /* IE 9 */
     -webkit-transform: translate(-50%, -50%); /* Safari */
     transform: translate(-50%, -50%);
-    color: {{ section.slider.text_color }}; 
+    color: {{ page.slider.text_color }}; 
     font-weight: bold;
     text-align: center;
-    text-shadow: 0 0 40px {{ section.slider.shadow_color }};
+    text-shadow: 0 0 40px {{ page.slider.shadow_color }};
     font-size: 15px;
     white-space: nowrap;
   }
   #myCarousel .item > div h3 {
     padding-top: 7px;
-    color: {{ section.slider.text_color }}; 
+    color: {{ page.slider.text_color }}; 
     font-weight: bold; font-size: 30px; 
   }
   #myCarousel span.glyphicon {
       font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif!important;
-      color: {{ section.slider.text_color }}!important;
+      color: {{ page.slider.text_color }}!important;
       font-size: 60px!important;
       height: 60px!important;
       line-height: 50px!important;
