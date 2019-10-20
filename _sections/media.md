@@ -4,14 +4,40 @@ slider:
   text_color: white
   shadow_color: black
   slides: 
-    - image: /assets/slides/01.jpg
-      slide_html:
-    - image: /assets/slides/02.jpg
-      slide_html:
-    - image: /assets/slides/03.jpg
-      slide_html:
-    - image: /assets/slides/04.jpg
-      slide_html:
+    - image: /assets/slides/1.jpg
+    - image: /assets/slides/10.jpg
+    - image: /assets/slides/11.jpg
+    - image: /assets/slides/12.jpg
+    - image: /assets/slides/13.jpg
+    - image: /assets/slides/14.jpg
+    - image: /assets/slides/15.jpg
+    - image: /assets/slides/16.jpg
+    - image: /assets/slides/17.jpg
+    - image: /assets/slides/18.jpg
+    - image: /assets/slides/19.jpg
+    - image: /assets/slides/2.jpg
+    - image: /assets/slides/20.jpg
+    - image: /assets/slides/21.jpg
+    - image: /assets/slides/22.jpg
+    - image: /assets/slides/23.jpg
+    - image: /assets/slides/24.jpg
+    - image: /assets/slides/25.jpg
+    - image: /assets/slides/26.jpg
+    - image: /assets/slides/27.jpg
+    - image: /assets/slides/28.jpg
+    - image: /assets/slides/29.jpg
+    - image: /assets/slides/3.jpg
+    - image: /assets/slides/30.jpg
+    - image: /assets/slides/31.jpg
+    - image: /assets/slides/32.jpg
+    - image: /assets/slides/33.jpg
+    - image: /assets/slides/34.jpg
+    - image: /assets/slides/4.jpg
+    - image: /assets/slides/5.jpg
+    - image: /assets/slides/6.jpg
+    - image: /assets/slides/7.jpg
+    - image: /assets/slides/8.jpg
+    - image: /assets/slides/9.jpg
 more_text: show more media items...
 ---
 <div class="video-container">

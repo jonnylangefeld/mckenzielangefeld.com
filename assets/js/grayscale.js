@@ -21,7 +21,6 @@ $(function() {
             scrollTop: $($anchor.attr('href')).offset().top - $(".navbar").height()
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
-        console.log($(".navbar").height())
     });
 });
 
