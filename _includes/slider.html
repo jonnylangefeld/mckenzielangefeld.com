@@ -9,6 +9,13 @@ Inspired from:  http://codepen.io/Rowno/pen/Afykb
 #myCarousel.carousel-fade .carousel-inner .item {
 opacity: 0;
 transition-property: opacity;
+height: 400px;
+}
+
+@media(min-width:767px) {
+    #myCarousel.carousel-fade .carousel-inner .item {
+        height: 500px;
+    }
 }
 
 #myCarousel.carousel-fade .carousel-inner .active {
@@ -61,16 +68,18 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
 
 <div id="myCarousel" class="carousel slide{% if include.transition == 'fade' %} carousel-fade{% endif %} lazy" data-ride="carousel" data-interval="{{ include.duration }}000">
     <!-- Indicators -->
-    <ol class="carousel-indicators">
-    {% for item in page.slider.slides %}
-        <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
-    {% endfor %}
-    </ol>
+    {% if page.slider.indicators %}
+        <ol class="carousel-indicators">
+            {% for item in page.slider.slides %}
+                <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
+            {% endfor %}
+        </ol>
+    {% endif %}
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
     {% for item in page.slider.slides %}
-        <div class="item{% if forloop.first %} active{% endif %}" data-src="{{ item.image | prepend: site.baseurl }}" style="{% if item == page.slider.slides.first %}background: url('{{ item.image | prepend: site.baseurl }}') center center no-repeat; {% endif %}background-size: cover;">
+        <div class="item{% if forloop.first %} active{% endif %}" data-src="{{ item.image | prepend: site.baseurl }}" style="{% if forloop.first %}background: url('{{ item.image | prepend: site.baseurl }}') center center no-repeat; {% endif %}background-size: contain;">
         <div>{{ item.slide_html }}</div>
         </div>
     {% endfor %}
@@ -127,8 +136,8 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
   #myCarousel .carousel-indicators {bottom: 0!important; margin-bottom: 12px;}
   #myCarousel .glyphicon-chevron-left::before,
   #myCarousel .glyphicon-chevron-right::before {content: "";}
-  #myCarousel .carousel-control.left {text-align: left; background: none!important;}
-  #myCarousel .carousel-control.right {text-align: right; background: none!important;}
+  #myCarousel .carousel-control.left {text-align: left; background: linear-gradient(90deg, rgba(23,23,23,0.4) 10%, rgba(0,0,0,0) 100%);}
+  #myCarousel .carousel-control.right {text-align: right; background: linear-gradient(270deg, rgba(23,23,23,0.4) 10%, rgba(0,0,0,0) 100%);}
   #myCarousel .carousel-control .glyphicon-chevron-right {margin-right: 15px; position: relative; right: auto; text-shadow: none;}
   #myCarousel .carousel-control .glyphicon-chevron-left {margin-left: 15px; position: relative; left: auto; text-shadow: none}
 </style>
@@ -137,7 +146,7 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
     $(function () {
         return $(".carousel.lazy").on("slide.bs.carousel", function (ev) {
             item = $(ev.relatedTarget);
-            item.css('background','url('+ item.data('src') +') center center no-repeat')
+            item.css({'background': 'url('+ item.data('src') +') center center no-repeat', 'background-size': 'contain'})
             item.removeAttr("data-src");
         });
     });

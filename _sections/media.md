@@ -3,6 +3,7 @@ title: Media
 slider:
   text_color: white
   shadow_color: black
+  indicators: false
   slides: 
     - image: /assets/slides/1.jpg
     - image: /assets/slides/10.jpg
