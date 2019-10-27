@@ -29,7 +29,7 @@ rm -rf *
 cp -R /tmp/mckenzielangefeld.com/* .
 
 # We need a CNAME file for GitHub
-echo "preview.mckenzielangefeld.com" > "CNAME"
+echo "mckenzielangefeld.com" > "CNAME"
 
 # Commit all the changes and push it to the remote
 git add -A
@@ -39,7 +39,7 @@ git push upstream gh-pages --force # force needed, as travis somehow can't re-us
 # Post a Slack message
 git checkout master
 
-echo "Deployed successfully, check out https://preview.mckenzielangefeld.com"
+echo "Deployed successfully, check out https://mckenzielangefeld.com"
 echo "If you're running this on your local machine, please make sure to reset your git user credentials (username and email) to not be the bot"
 
 exit 0
