@@ -4,11 +4,11 @@ theme: light
 ---
 <img id="portrait" src="/assets/img/portrait.jpg" width="35%" align="right" style="margin: 15px" />
 
-Mckenzie Camp is a percussionist in San Francisco where she plays with many ensembles in the bay area. She is on the sub list with the  [San Francisco Opera](http://sfopera.com/Home.aspx), and has played with groups including [Berkeley Symphony](http://berkeleysymphony.org/), [Symphony Silicon Valley](http://www.symphonysiliconvalley.org/), [Oakland Symphony](https://www.oaklandsymphony.org/), [Santa Cruz Symphony](https://santacruzsymphony.org/), [Chanticleer](http://www.chanticleer.org/russian-program-with-percussion-near-battle-ready/), [San Francisco Contemporary Music Players](http://sfcmp.org/), [Island City Opera](http://islandcityopera.org/), [Adesso Ensemble](https://www.sfcv.org/event/music-on-the-hill/adesso-ensemble-0), [Brass Band Mission](https://www.facebook.com/BrassBandMission),  [San Jose Chamber Orchestra](http://www.sjco.org/SJCO/About.html), [Patriot Brass](http://www.patriotbrass.org/patriot-brass-san-francisco.html), and [Opera Parallele](https://operaparallele.org/).
+Mckenzie Langefeld (Camp) is a percussionist in San Francisco where she plays with many ensembles in the bay area. She is on the sub list with the  [San Francisco Opera](http://sfopera.com/Home.aspx), and has played with groups including [Berkeley Symphony](http://berkeleysymphony.org/), [Symphony Silicon Valley](http://www.symphonysiliconvalley.org/), [Oakland Symphony](https://www.oaklandsymphony.org/), [Marin Symphony](https://marinsymphony.org/), [Santa Cruz Symphony](https://santacruzsymphony.org/), [Chanticleer](http://www.chanticleer.org/russian-program-with-percussion-near-battle-ready/), [San Francisco Contemporary Music Players](http://sfcmp.org/), [Island City Opera](http://islandcityopera.org/), [Adesso Ensemble](https://www.sfcv.org/event/music-on-the-hill/adesso-ensemble-0), [Brass Band Mission](https://www.facebook.com/BrassBandMission),  [San Jose Chamber Orchestra](http://www.sjco.org/SJCO/About.html), [Patriot Brass](http://www.patriotbrass.org/patriot-brass-san-francisco.html), and [Opera Parallele](https://operaparallele.org/).
 
 <img id="portrait-mobile" src="/assets/img/portrait.jpg" width="70%" align="middle" style="margin: auto" />
 
-She is a member of [Wild Rumpus](http://wildrumpusmusic.org/), a chamber group dedicated to the development of new music
+She is a member of [Ninth Planet](http://www.ninthplanetmusic.org/), a chamber group dedicated to the development of new music
 through collaboration with young/emerging composers.
 
 <style>
