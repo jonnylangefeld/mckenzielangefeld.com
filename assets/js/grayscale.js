@@ -14,19 +14,19 @@ $(window).scroll(function() {
 });
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
-$(function() {
+$(function () {
+    // Closes the Responsive Menu on Menu Item Click
+    $('.navbar-collapse ul li a').click(function () {
+        $('.navbar-toggle:visible').click();
+    });
+
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - $(".navbar").height()
+            scrollTop: $($anchor.attr('href')).offset().top - $(".navbar-header").height()
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
-});
-
-// Closes the Responsive Menu on Menu Item Click
-$('.navbar-collapse ul li a').click(function() {
-    $('.navbar-toggle:visible').click();
 });
 
 // remove the focused state after click,

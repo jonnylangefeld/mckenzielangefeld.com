@@ -115,7 +115,19 @@ a:focus {
     background-color: rgba(255,255,255,.3);
 }
 
-@media(min-width:767px) {
+/* @media (min-width: 771px) {
+    .navbar-toggle {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-toggle {
+        display: block;
+    }
+} */
+
+@media(min-width:824px) {
     .navbar {
         padding: 20px 0;
         border-bottom: 0;
@@ -143,6 +155,12 @@ a:focus {
 
     .navbar-custom.top-nav-collapse {
         border-bottom: 1px solid rgba(255,255,255,.3);
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .nav-container {
+        width: 100%;
     }
 }
 
