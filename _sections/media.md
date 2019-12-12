@@ -37,7 +37,7 @@ more_text: show more media items...
 
 <!--more-->
 
-Check out my songs on soundcloud:
+Check out some of my music on Soundcloud:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/903599158&color=%2306095e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
