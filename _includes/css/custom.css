@@ -390,6 +390,10 @@ ul.banner-social-buttons li {
     }
 }
 
+.background-wrapper {
+    background-size: cover;
+}
+
 @media(max-width:767px) {
     ul.banner-social-buttons li {
         display: block;
@@ -399,6 +403,10 @@ ul.banner-social-buttons li {
 
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
+    }
+
+    .background-wrapper {
+        background-size: 150%;
     }
 }
 

@@ -28,14 +28,15 @@
     {% if section.backgroundUrl %}
 
         <script>
-            background = $("#{{ section.title | downcase }}").wrap("<div id='{{ section.title | downcase }}-background'></div>")
-            gradient = background.wrap("<div class='gradient'></div>");
+            background = $("#{{ section.title | downcase }}").wrap("<div id='{{ section.title | downcase }}-background' class='background-wrapper'></div>")
         </script>
 
         <style>
             #{{ section.title | downcase }}-background {
-                background: url({{ section.backgroundUrl }}) no-repeat center center scroll;
-                background-size: cover;
+                background-image: linear-gradient(180deg, rgba(0,0,0,0) 0px, rgba(23,23,23,1) min(100vw, 90%)), url({{ section.backgroundUrl }});
+                background-repeat: no-repeat;
+                background-position: center top;
+                background-attachment: scroll;
             }
         </style>
 
