@@ -16,5 +16,5 @@ She taught twenty piano students for Marin Music Conservatory through the Mill V
 For two years, she coached percussion students weekly at Presidio Middle School and Everett Middle School in San Francisco through SFCM's [Conservatory in the Schools](http://www.sfcm.edu/conservatory-in-the-schools) program. She helped lead the percussion ensemble at Presidio Middle School to receive a command performance at the CMEA Solo/Ensemble Festival in 2014.
 
 While at the Eastman School of Music, she participated in the [Pathways to Music](http://www.esm.rochester.edu/community/pathways/) mentoring program in 2009, mentoring and coaching a young percussion student in the Rochester School District.
-​
+
 She coached the percussion ensemble, percussion sectionals, and taught private lessons to beginning, intermediate, and advanced band percussion students at the Stockdale Christian School Summer Band Camp for two summers in 2003 and 2004.
