@@ -28,7 +28,6 @@ social:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 
 collections:
   - sections
@@ -41,3 +40,10 @@ collections:
       - media.md
       - performances.md
       - contact.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+permalink: /blog/:title
+paginate: 6
+paginate_path: "/blog/page:num/"

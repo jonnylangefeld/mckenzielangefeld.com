@@ -115,19 +115,7 @@ a:focus {
     background-color: rgba(255,255,255,.3);
 }
 
-/* @media (min-width: 771px) {
-    .navbar-toggle {
-        display: none;
-    }
-}
-
-@media (min-width: 768px) {
-    .navbar-toggle {
-        display: block;
-    }
-} */
-
-@media(min-width:824px) {
+@media(min-width:900px) {
     .navbar {
         padding: 20px 0;
         border-bottom: 0;
@@ -161,6 +149,41 @@ a:focus {
 @media (min-width:768px) and (max-width:991px) {
     .nav-container {
         width: 100%;
+    }
+}
+
+@media (min-width:768px) and (max-width: 900px) {
+    .navbar-custom .navbar-header {
+        float: none;
+    }
+    .navbar-custom .navbar-toggle {
+        display: block;
+    }
+
+    .navbar-custom .navbar-collapse.collapse {
+        display: none!important;
+    }
+
+    .navbar-custom .collapse.in {
+        display: block!important;
+        visibility: visible;
+    }
+    
+    .navbar-custom .navbar-nav {
+        float: none!important;
+    }
+    
+    .navbar-custom .navbar-right {
+        float: none!important;
+    }
+
+    .navbar-custom .navbar-nav>li {
+        float: none;
+    }
+
+    .navbar-custom .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 }
 
@@ -458,4 +481,16 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+/* Blog */
+
+p.extra-info {
+    color: #aaa;
+    font-size: 15px;
+}
+
+.post-meta {
+    font-size: 14px;
+    color: #828282;
 }

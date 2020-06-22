@@ -1,3 +1,4 @@
+<script>$('nav a').addClass('page-scroll')</script>
 {% for section in site.sections %}
     <!-- {{ section.title | downcase }} Section -->
     <section id="{{ section.title | downcase }}" class="container content-section text-center {% if section.backgroundUrl %}bright{% endif %}">

@@ -5,7 +5,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
+                <a class="navbar-brand" href="/#page-top">
                     <i class="fa fa-drum"></i>  <span class="light">Mckenzie</span> Langefeld
                 </a>
             </div>
@@ -15,9 +15,12 @@
                 <ul class="nav navbar-nav">
                     {% for section in site.sections %}
                         <li>
-                            <a class="page-scroll" href="#{{ section.title | downcase }}">{{ section.title }}</a>
+                            <a href="/#{{ section.title | downcase }}">{{ section.title }}</a>
                         </li>
                     {% endfor %}
+                        <li>
+                            <a href="/blog">Blog</a>
+                        </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
