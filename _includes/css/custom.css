@@ -317,30 +317,31 @@ a:focus {
 }
 
 .read-more-state {
-  display: none;
+    display: none;
 }
 
 .read-more-state:checked ~ .read-more {
-  opacity: 1;
-  font-size: inherit;
-  max-height: 999em;
-  display: inherit;
+    opacity: 1;
+    font-size: inherit;
+    max-height: 999em;
+    display: inherit;
 }
 
 .read-more-state ~ .read-more-trigger:before {
-  content: 'Continue reading...';
+    content: 'Continue reading...';
 }
 
 .read-more-state:checked ~ .read-more-trigger:before {
-  content: 'Show less...';
+    content: 'Show less...';
 }
 
 .read-more-trigger {
-  cursor: pointer;
-  color: {{ site.color.links }};;
-  display: grid;
-  text-align: center;
-  font-size: 18px;
+    cursor: pointer;
+    color: {{ site.color.links }};;
+    display: grid;
+    text-align: center;
+    font-size: 18px;
+    margin: -18px 0 17px;
 }
 
 .carousel {
