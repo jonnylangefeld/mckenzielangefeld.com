@@ -21,9 +21,10 @@ $(function () {
     });
 
     $('a.page-scroll').bind('click', function(event) {
-        var $anchor = $(this);
+        var $anchor = $(this).attr('href')
+        $anchor = $anchor.substring($anchor.indexOf('#'));
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - $(".navbar-header").height()
+            scrollTop: $($anchor).offset().top - $(".navbar-header").height()
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });

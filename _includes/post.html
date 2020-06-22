@@ -1,0 +1,42 @@
+{% if include.main == null %}
+<header class="intro">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h2 class="brand-heading">{{ page.title }}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+{% endif %}
+
+<section id="{{ section.title | downcase }}" class="container content-section text-left">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            {% include blog-post-header.html %}
+
+            <div class="post-content" itemprop="articleBody">
+                {% if include.main & page.content contains '<!--more-->' %}
+                <div>
+                    {{ page.content | split:'<!--more-->' | first }}
+                </div>
+                <input type="checkbox" class="read-more-state" id="{{ page.url }}" />
+                <div class="read-more">
+                    {{ page.content | split:'<!--more-->' | last }}
+                </div>
+                <label for="{{ page.url }}" class="read-more-trigger"></label>
+                {% else %}
+                {{ page.content }}
+                {% endif %}
+            </div>
+
+            <p class="extra-info">
+                {% if page.tags.size > 0 %}
+                Tags: {{ page.tags | join: ', ' }}
+                {% endif %}
+            </p>
+        </div>
+    </div>
+</section>
