@@ -13,7 +13,7 @@ type: post
 published: true
 meta: {}
 ---
-I can't tell you how many times i have been stared at blankly when i use the word percussionist. My uncle teased me recently when i showed him my sparkling new business cards- "Pear-shoosh-un-ist... What the heck is a "Pearshooshunist!?" he asked.
+I can't tell you how many times I have been stared at blankly when I use the word percussionist. My uncle teased me recently when I showed him my sparkling new business cards- "Pear-shoosh-un-ist... What the heck is a "Pearshooshunist!?" he asked.
 ​I laughed, but internally cringed because I knew this reaction was probably more common than people let on to me. Usually the silence and cricket sounds are all I hear.
 
 My very technical definition of a percussion instrument is anything you can hit on. Junk.
