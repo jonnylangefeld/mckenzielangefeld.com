@@ -16,8 +16,8 @@ I had a six week residency in Montreal, QC, Canada, where I worked with Giant St
 
 I taught twenty piano students for Marin Music Conservatory through the Mill Valley Enrichment Program from 2013-2015 at Tam Valley School and Old Mill School in Mill Valley, CA.
 
-For two years, I coached percussion students weekly at Presidio Middle School and Everett Middle School in San Francisco through SFCM's [Conservatory in the Schools](http://www.sfcm.edu/conservatory-in-the-schools) program. I helped lead the percussion ensemble at Presidio Middle School to receive a command performance at the CMEA Solo/Ensemble Festival in 2014.
+For two years, I coached percussion students weekly at Presidio Middle School and Everett Middle School in San Francisco through SFCM's [Conservatory in the Schools](https://sfcm.edu/conservatory-schools) program. I helped lead the percussion ensemble at Presidio Middle School to receive a command performance at the CMEA Solo/Ensemble Festival in 2014.
 
-While at Eastman School of Music, I participated in the [Pathways to Music](http://www.esm.rochester.edu/community/pathways/) mentoring program in 2009, mentoring and coaching a young percussion student in the Rochester School District.
+While at Eastman School of Music, I participated in the [Pathways to Music](https://www.esm.rochester.edu/pathways/) mentoring program in 2009, mentoring and coaching a young percussion student in the Rochester School District.
 
 I coached the percussion ensemble, percussion sectionals, and taught private lessons to beginning, intermediate, and advanced band percussion students at the Stockdale Christian School Summer Band Camp for two summers in 2003 and 2004.
