@@ -460,6 +460,14 @@ footer p {
     margin: 0;
 }
 
+footer .socials {
+    margin-bottom: 7pt;
+}
+
+footer .icon {
+    padding: 0px 8px 0px 8px;
+}
+
 ::-moz-selection {
     text-shadow: none;
     background: #fcfcfc;
