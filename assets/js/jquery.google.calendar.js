@@ -10,16 +10,24 @@
         errorMsg: 'No events in calendar',
         maxEvents: 50,
         futureEventsOnly: true,
+        pastEvents: false,
         sortDescending: true
       },
       options);
 
     var s = '';
+    var now = new Date();
     var feedUrl = 'https://www.googleapis.com/calendar/v3/calendars/' +
       encodeURIComponent(defaults.calendarId.trim()) +'/events?key=' + defaults.apiKey +
       '&orderBy=startTime&singleEvents=true';
       if(defaults.futureEventsOnly) {
-        feedUrl+='&timeMin='+ new Date().toISOString();
+        feedUrl+='&timeMin='+ now.toISOString();
+      }
+      if(defaults.pastEvents) {
+        feedUrl+='&timeMax='+ now.toISOString();
+        timeMin = new Date();
+        timeMin.setMonth(timeMin.getMonth()-6);
+        feedUrl+='&timeMin='+ timeMin.toISOString();
       }
 
     $.ajax({
