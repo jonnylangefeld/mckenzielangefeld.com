@@ -447,7 +447,7 @@ ul.banner-social-buttons li {
     font-weight: bold
 }
 
-#event-list i {
+.list-group i {
     min-width: 35px;
     text-align: center;
 }
