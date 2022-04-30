@@ -3,7 +3,7 @@ title: Lessons
 backgroundUrl: /assets/img/drum-background-01.jpg
 after: <a href="#contact" class="btn btn-default btn-lg page-scroll">contact Mckenzie for lessons</a>
 ---
-I currently teach private piano, percussion, and drum set lessons to over 20 musicians in the Bay Area. 
+I currently teach private piano, percussion, and drum set lessons to over 20 musicians in the Bay Area via our studio [rivercitymusic.org](https://rivercitymusic.org).
 Even a pandemic didn't keep my students and I from having a successful year of progress in our music making. Read more in my [blog post here](/blog/connecting-through-music-during-a-not-so-average-year).
 
 I was on faculty at the CODA Mountain Music Festival in West Virginia in the summers of 2017 and 2018, teaching the percussionists as well as the beginning pianists.
