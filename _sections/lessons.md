@@ -3,7 +3,9 @@ title: Lessons
 backgroundUrl: /assets/img/drum-background-01.jpg
 after: <a href="#contact" class="btn btn-default btn-lg page-scroll">contact Mckenzie for lessons</a>
 ---
-Mckenzie currently teaches private piano, percussion, and drum set lessons in the bay area to over 20 young musicians ages 4-16. 
+Mckenzie currently teaches private piano, percussion, and drum set lessons to over 20 musicians, both kids and adults.
+
+She is an Affiliate Artist in Percussion at Saint Mary's College of California where she teaches percussion lessons.
 
 She was on faculty at the CODA Mountain Music Festival in West Virginia in the summers of 2017 and 2018, teaching the percussionists as well as the beginning pianists.
 
