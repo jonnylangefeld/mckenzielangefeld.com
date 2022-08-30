@@ -36,8 +36,7 @@ through collaboration with young/emerging composers.
 
 <!--more-->
 
-She is also a member of deirfiúr duo, which plays many different genres of music combining
-percussion, trumpet, piano, voice, and other unique instruments.
+She is an Affiliate Artist in Percussion at Saint Mary's College of California.
 
 She graduated from the [Eastman School of Music](http://www.esm.rochester.edu/) with a Bachelor of Music in Percussion Performance and also
 earned a Performer's Certificate. While at Eastman she studied with [Michael Burritt](http://www.michaelburritt.com/), [John Beck](http://www.esm.rochester.edu/faculty/beck_john/), [Bill Cahn](http://nexuspercussion.com/members/bill-cahn/), and [Chip Ross](http://www.esm.rochester.edu/faculty/ross_charles/), and performed regularly with groups including the Eastman Wind Ensemble, Eastman Percussion Ensemble,
