@@ -4,7 +4,7 @@ theme: light
 ---
 <img id="portrait" src="/assets/img/portrait.jpg" width="35%" align="right" style="margin: 15px" />
 
-Mckenzie Langefeld (Camp) is a percussionist in San Francisco where she plays with many bay area ensembles. She is a percussion extra with the [San Francisco Opera](http://sfopera.com/Home.aspx), and has played with groups including [Berkeley Symphony](http://berkeleysymphony.org/), [Symphony Silicon Valley](http://www.symphonysiliconvalley.org/), [Oakland Symphony](https://www.oaklandsymphony.org/), [Marin Symphony](https://marinsymphony.org/), [Santa Cruz Symphony](https://santacruzsymphony.org/), [Chanticleer](http://www.chanticleer.org/russian-program-with-percussion-near-battle-ready/), [San Francisco Contemporary Music Players](http://sfcmp.org/), [Island City Opera](http://islandcityopera.org/), [Adesso Ensemble](https://www.sfcv.org/event/music-on-the-hill/adesso-ensemble-0), [Brass Band Mission](https://www.facebook.com/BrassBandMission),  [San Jose Chamber Orchestra](http://www.sjco.org/SJCO/About.html), [Patriot Brass](http://www.patriotbrass.org/patriot-brass-san-francisco.html), and [Opera Parallele](https://operaparallele.org/).
+Mckenzie Langefeld (Camp) is a percussionist in San Francisco where she plays with many bay area ensembles. She is a percussion extra with the [San Francisco Opera](http://sfopera.com/Home.aspx), and has played with groups including [Berkeley Symphony](http://berkeleysymphony.org/), [Symphony Silicon Valley](http://www.symphonysiliconvalley.org/), [Oakland Symphony](https://www.oaklandsymphony.org/), [Marin Symphony](https://marinsymphony.org/), [Santa Cruz Symphony](https://santacruzsymphony.org/), [San Francisco Chamber Orchestra](http://www.thesfco.org/), [Empyrean Ensemble](https://arts.ucdavis.edu/empyrean), [Chanticleer](http://www.chanticleer.org/russian-program-with-percussion-near-battle-ready/), [San Francisco Contemporary Music Players](http://sfcmp.org/), [Island City Opera](http://islandcityopera.org/), [Adesso Ensemble](https://www.sfcv.org/event/music-on-the-hill/adesso-ensemble-0), [Brass Band Mission](https://www.facebook.com/BrassBandMission),  [San Jose Chamber Orchestra](http://www.sjco.org/SJCO/About.html), [Patriot Brass](http://www.patriotbrass.org/patriot-brass-san-francisco.html), and [Opera Parallele](https://operaparallele.org/).
 
 <img id="portrait-mobile" src="/assets/img/portrait.jpg" width="70%" align="middle" style="margin: auto" />
 
@@ -37,6 +37,8 @@ through collaboration with young/emerging composers.
 <!--more-->
 
 She is an Affiliate Artist in Percussion at Saint Mary's College of California.
+
+She is a member of [DuoXylo](https://www.dorianantipa.com/consortium), a bassoon and percussion duo that will be making their debut in November with a few brand new commissioned works!
 
 She graduated from the [Eastman School of Music](http://www.esm.rochester.edu/) with a Bachelor of Music in Percussion Performance and also
 earned a Performer's Certificate. While at Eastman she studied with [Michael Burritt](http://www.michaelburritt.com/), [John Beck](http://www.esm.rochester.edu/faculty/beck_john/), [Bill Cahn](http://nexuspercussion.com/members/bill-cahn/), and [Chip Ross](http://www.esm.rochester.edu/faculty/ross_charles/), and performed regularly with groups including the Eastman Wind Ensemble, Eastman Percussion Ensemble,
